@@ -1,6 +1,6 @@
 # The Boyfriend Soundfont (Friday Night Funkin')
 
-A collection of SFZ (Sforzando) and DWB (FL Studio) soundfonts in the style of the Boyfriend character from Friday Night Funkin', sampled directly from the original files with UTAU.
+A collection of SFZ (Sforzando) and DWB (FL Studio) soundfonts in the style of the Boyfriend character from Friday Night Funkin', sampled directly from the original files with UTAU (Samples ripped from the game by GenoX).
 
 ## Usage
 
