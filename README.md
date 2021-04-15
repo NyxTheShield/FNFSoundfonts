@@ -1,6 +1,6 @@
 # The Boyfriend Soundfont (Friday Night Funkin')
 
-A collection of SFZ (Sforzando) and DWB (FL Studio) soundfonts in the style of the Boyfriend character from Friday Night Funkin', sampled directly from the original files with UTAU.
+A collection of SFZ (Sforzando) and DWB (FL Studio) soundfonts in the style of the Boyfriend character from Friday Night Funkin', sampled directly from the original files with UTAU (Samples ripped from the game by GenoX).
 
 ## Usage
 
@@ -21,3 +21,7 @@ Drag the file into FL Studio. It should automatically load the instrument. Midi 
 ### .sfz for other DAWS
 
 Drag the .sfz file into Sforzando ([A Free SFZ player, can be downloaded from here]:https://www.plogue.com/downloads.html). Keyswitches C0 to B0 are mapped to the articulations listed above.
+
+### License
+
+Apache v2, like the original Friday Night Funkin. Samples ripped from KawaiSprite's tracks, belonging to the FNF Source Code. 
