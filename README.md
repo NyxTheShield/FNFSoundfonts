@@ -20,7 +20,7 @@ Drag the file into FL Studio. It should automatically load the instrument. Midi 
 
 ### .sfz for other DAWS
 
-Drag the .sfz file into Sforzando ([A Free SFZ player, can be downloaded from here]:https://www.plogue.com/downloads.html). Keyswitches C0 to B0 are mapped to the articulations listed above.
+Drag the .sfz file into Sforzando ([A Free SFZ player, can be downloaded from here](https://www.plogue.com/downloads.html)). Keyswitches C0 to B0 are mapped to the articulations listed above.
 
 ### .sf2 for legacy users (NOT RECOMMENDED)
 
