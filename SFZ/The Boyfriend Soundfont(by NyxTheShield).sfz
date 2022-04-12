@@ -832,6 +832,7 @@ pitch_keycenter=61
 lorand=0.66
 hirand=0.83
 
+
 <region>
 sample=samples/Blammed_Voices - Marker #48_2.wav
 sw_last=12
